@@ -3,7 +3,7 @@
 //  ButtonPickerView
 //
 //  Created by Tyr on 3/29/13.
-//  Copyright (c) 2013 Webbable. All rights reserved.
+//  Copyright (c) 2013 _MyCompanyName_. All rights reserved.
 //
 
 #import "AppDelegate.h"
